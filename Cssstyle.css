@@ -1,0 +1,12 @@
+body{
+    background-image: url("the-witcher-serie.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#Div1{
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 8px 6px darkgray;
+}
